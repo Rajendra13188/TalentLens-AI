@@ -1,0 +1,87 @@
+{
+  "Senior Machine Learning Engineer": {
+    "title": "Senior Machine Learning Engineer",
+    "department": "Applied AI & Data Science",
+    "description": "We are looking for a Senior Machine Learning Engineer to design, train, and deploy production ML and NLP pipelines. The ideal candidate has deep expertise in Python, Scikit-Learn, PyTorch or TensorFlow, Pandas, and NumPy. Experience in Natural Language Processing (NLP), Large Language Models (LLMs), RAG architectures, and model evaluation is highly desired. The engineer will build scalable REST APIs for model inference, containerize services using Docker, collaborate via Git version control, and deploy in cloud environments (AWS/GCP). Familiarity with Unit Testing and Agile practices is essential.",
+    "key_skills": [
+      "Python",
+      "Machine Learning",
+      "Scikit-Learn",
+      "PyTorch",
+      "Natural Language Processing",
+      "Large Language Models",
+      "Pandas",
+      "NumPy",
+      "Docker",
+      "REST API",
+      "Git"
+    ]
+  },
+  "Full Stack Web Developer": {
+    "title": "Full Stack Web Developer (React & Node.js)",
+    "department": "Engineering",
+    "description": "Seeking an experienced Full Stack Developer proficient in modern JavaScript and TypeScript. Responsibilities include building dynamic, accessible frontends with React and Tailwind CSS, and robust backend REST APIs and microservices with Node.js and Express. Must have experience with PostgreSQL or MySQL databases, Redis caching, Git version control, CI/CD pipelines, and containerization with Docker. Experience with Unit Testing and Agile/Scrum methodologies is expected.",
+    "key_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Express",
+      "HTML/CSS",
+      "Tailwind CSS",
+      "PostgreSQL",
+      "Docker",
+      "REST API",
+      "Git"
+    ]
+  },
+  "Data Analyst & BI Specialist": {
+    "title": "Data Analyst & Business Intelligence Specialist",
+    "department": "Analytics & Business Intelligence",
+    "description": "Looking for a Data Analyst to translate complex datasets into actionable insights. Strong proficiency in SQL for data querying and transformation is mandatory. Extensive experience with Python, Pandas, and NumPy for Exploratory Data Analysis (EDA) and data visualization. Demonstrated capability in building executive dashboards using Power BI and Tableau. Advanced knowledge of Excel and statistical methods is required.",
+    "key_skills": [
+      "SQL",
+      "Python",
+      "Pandas",
+      "Data Analysis",
+      "Power BI",
+      "Tableau",
+      "Excel",
+      "Data Visualization",
+      "Statistics"
+    ]
+  },
+  "Cloud & DevOps Engineer": {
+    "title": "Cloud & DevOps Infrastructure Engineer",
+    "department": "Platform Engineering",
+    "description": "We are seeking a Cloud & DevOps Engineer to automate and scale our infrastructure. Must have hands-on experience managing cloud infrastructure on AWS or GCP, implementing Infrastructure as Code with Terraform, and configuring automated CI/CD pipelines with GitHub Actions or Jenkins. Deep knowledge of Docker, Kubernetes container orchestration, Linux system administration, Shell/Bash scripting, and Git is required.",
+    "key_skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Terraform",
+      "Linux",
+      "Shell / Bash",
+      "Python",
+      "Git"
+    ]
+  },
+  "AI Applications & Desktop Systems Engineer": {
+    "title": "Software Engineer — AI Applications & Desktop Systems",
+    "department": "Intelligent Software & Automation",
+    "description": "Seeking a Software Engineer to architect and build intelligent desktop applications and automation tools. Core requirements include Python, FastAPI backends, and SQLite local memory stores. Experience integrating Large Language Models (LLMs) with prompt engineering and agentic workflows (Gemini API, Ollama). Hands-on proficiency with desktop/web automation using Playwright or PyAutoGUI, and version control using Git. Familiarity with Kotlin, Android development, Java, JavaScript, and HTML/CSS is a strong advantage.",
+    "key_skills": [
+      "Python",
+      "FastAPI",
+      "SQLite",
+      "Large Language Models",
+      "Git",
+      "Kotlin",
+      "Java",
+      "JavaScript",
+      "HTML/CSS"
+    ]
+  }
+}
+

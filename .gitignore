@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments & Secrets
+.env
+.env.*
+.venv/
+env/
+venv/
+ENV/
+
+# Streamlit Local Cache & Config
+.streamlit/
+
+# OS-Specific Metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary & Scratch Files
+tmp/
+temp/
+*.tmp
+*.log
+scratch/
+
+# Preserved Legacy Research Files (Keep Offline)
+_legacy_misconception_rag/
+
+# Personal Resumes & Private Documents in Root
+/*.pdf
+/*.docx
+*resume*.pdf
+*cv*.pdf
+
+# Explicitly Allow Synthetic Demo Resumes
+!sample_data/resumes/*.pdf
